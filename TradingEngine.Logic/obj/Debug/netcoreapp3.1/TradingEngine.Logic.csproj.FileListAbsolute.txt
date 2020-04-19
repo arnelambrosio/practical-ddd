@@ -1,0 +1,8 @@
+D:\Work\DevPartners\DDD in Practice\TradingEngine.Logic\bin\Debug\netcoreapp3.1\TradingEngine.Logic.deps.json
+D:\Work\DevPartners\DDD in Practice\TradingEngine.Logic\bin\Debug\netcoreapp3.1\TradingEngine.Logic.dll
+D:\Work\DevPartners\DDD in Practice\TradingEngine.Logic\bin\Debug\netcoreapp3.1\TradingEngine.Logic.pdb
+D:\Work\DevPartners\DDD in Practice\TradingEngine.Logic\obj\Debug\netcoreapp3.1\TradingEngine.Logic.csproj.CoreCompileInputs.cache
+D:\Work\DevPartners\DDD in Practice\TradingEngine.Logic\obj\Debug\netcoreapp3.1\TradingEngine.Logic.AssemblyInfoInputs.cache
+D:\Work\DevPartners\DDD in Practice\TradingEngine.Logic\obj\Debug\netcoreapp3.1\TradingEngine.Logic.AssemblyInfo.cs
+D:\Work\DevPartners\DDD in Practice\TradingEngine.Logic\obj\Debug\netcoreapp3.1\TradingEngine.Logic.dll
+D:\Work\DevPartners\DDD in Practice\TradingEngine.Logic\obj\Debug\netcoreapp3.1\TradingEngine.Logic.pdb

@@ -1,0 +1,67 @@
+USE [TradingEngine]
+GO
+
+CREATE TABLE [dbo].[Currency](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Name] [nvarchar](50) NOT NULL,
+	[Ratio] [decimal](18, 2) NOT NULL,
+ CONSTRAINT [PK_Currency] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
+CREATE TABLE [dbo].[User](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[Username] [nvarchar](255) NOT NULL,
+ CONSTRAINT [PK_User] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+
+CREATE TABLE [dbo].[Balance](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[UserId] [int] NOT NULL,
+	[CurrencyId] [int] NOT NULL,
+	[Amount] [decimal](18, 2) NULL,
+ CONSTRAINT [PK_Balance] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[Balance]  WITH CHECK ADD  CONSTRAINT [FK_Balance_Balance] FOREIGN KEY([Id])
+REFERENCES [dbo].[Balance] ([Id])
+GO
+
+ALTER TABLE [dbo].[Balance] CHECK CONSTRAINT [FK_Balance_Balance]
+GO
+
+ALTER TABLE [dbo].[Balance]  WITH CHECK ADD  CONSTRAINT [FK_Balance_Currency] FOREIGN KEY([CurrencyId])
+REFERENCES [dbo].[Currency] ([Id])
+ON UPDATE CASCADE
+GO
+
+ALTER TABLE [dbo].[Balance] CHECK CONSTRAINT [FK_Balance_Currency]
+GO
+
+ALTER TABLE [dbo].[Balance]  WITH CHECK ADD  CONSTRAINT [FK_Balance_User] FOREIGN KEY([UserId])
+REFERENCES [dbo].[User] ([Id])
+ON UPDATE CASCADE
+GO
+
+ALTER TABLE [dbo].[Balance] CHECK CONSTRAINT [FK_Balance_User]
+GO
+
+--data seed
+
+INSERT INTO [Currency]([Name],Ratio)VALUES('Php',0.45)
+INSERT INTO [User](Username)VALUES('User101')
+INSERT INTO [Balance](UserId,CurrencyId,Amount)VALUES('1','1',500)
+ 
