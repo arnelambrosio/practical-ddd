@@ -553,11 +553,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\DevPartners\\DDD in Practice\\TradingEngine.Logic\\TradingEngine.Logic.csproj",
+      "projectUniqueName": "D:\\Work\\DevPartners\\Backend_Devs_Assessment\\practical-ddd\\TradingEngine.Logic\\TradingEngine.Logic.csproj",
       "projectName": "TradingEngine.Logic",
-      "projectPath": "D:\\Work\\DevPartners\\DDD in Practice\\TradingEngine.Logic\\TradingEngine.Logic.csproj",
+      "projectPath": "D:\\Work\\DevPartners\\Backend_Devs_Assessment\\practical-ddd\\TradingEngine.Logic\\TradingEngine.Logic.csproj",
       "packagesPath": "C:\\Users\\arnel-laptop\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\DevPartners\\DDD in Practice\\TradingEngine.Logic\\obj\\",
+      "outputPath": "D:\\Work\\DevPartners\\Backend_Devs_Assessment\\practical-ddd\\TradingEngine.Logic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",

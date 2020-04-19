@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MDy+wZJ8x6w6NKjMgAamtWmz5RuptctybaxzzizBrRk+J8uxZ+qTWnn5JUEo9SsP7I8ZuBXjbmET8Y0+pKvDIQ==",
+  "dgSpecHash": "wTkWFIYUD9IvLbbXvfLjRlPjZUsdljx3aFaBwI9/JYuVgiDJYN0gGh7lQyvnlsTgs0VqjurKhE/fdZ/QbJ3wfw==",
   "success": true,
-  "projectFilePath": "D:\\Work\\DevPartners\\DDD in Practice\\TradingEngine.Logic\\TradingEngine.Logic.csproj",
+  "projectFilePath": "D:\\Work\\DevPartners\\Backend_Devs_Assessment\\practical-ddd\\TradingEngine.Logic\\TradingEngine.Logic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arnel-laptop\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\arnel-laptop\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

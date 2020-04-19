@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bxzKjlLthsw1CylrePZjBwkWt1ZiY5/n2htUq9mLzchUGzUjejvf7XgkpRk0excRZtPQIS1A5mCWQMh34uuJsg==",
+  "dgSpecHash": "amF7VkJSN2y9TwAJpxyEmZTr7EN3QKNR+z1BBys7roXNrZXGUcAmA1rUVwgDz/8NAcgjYjikeUUXSG82mgfTaA==",
   "success": true,
-  "projectFilePath": "D:\\Work\\DevPartners\\DDD in Practice\\Test\\TradingEnding.NunitTest\\TradingEngine.NunitTest.csproj",
+  "projectFilePath": "D:\\Work\\DevPartners\\Backend_Devs_Assessment\\practical-ddd\\Test\\TradingEnding.NunitTest\\TradingEngine.NunitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arnel-laptop\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\arnel-laptop\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

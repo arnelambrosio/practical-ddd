@@ -6785,11 +6785,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\DevPartners\\DDD in Practice\\Test\\TradingEnding.NunitTest\\TradingEngine.NunitTest.csproj",
+      "projectUniqueName": "D:\\Work\\DevPartners\\Backend_Devs_Assessment\\practical-ddd\\Test\\TradingEnding.NunitTest\\TradingEngine.NunitTest.csproj",
       "projectName": "TradingEngine.NunitTest",
-      "projectPath": "D:\\Work\\DevPartners\\DDD in Practice\\Test\\TradingEnding.NunitTest\\TradingEngine.NunitTest.csproj",
+      "projectPath": "D:\\Work\\DevPartners\\Backend_Devs_Assessment\\practical-ddd\\Test\\TradingEnding.NunitTest\\TradingEngine.NunitTest.csproj",
       "packagesPath": "C:\\Users\\arnel-laptop\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\DevPartners\\DDD in Practice\\Test\\TradingEnding.NunitTest\\obj\\",
+      "outputPath": "D:\\Work\\DevPartners\\Backend_Devs_Assessment\\practical-ddd\\Test\\TradingEnding.NunitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6810,11 +6810,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Work\\DevPartners\\DDD in Practice\\TradingEngine.Api\\TradingEngine.Api.csproj": {
-              "projectPath": "D:\\Work\\DevPartners\\DDD in Practice\\TradingEngine.Api\\TradingEngine.Api.csproj"
+            "D:\\Work\\DevPartners\\Backend_Devs_Assessment\\practical-ddd\\TradingEngine.Api\\TradingEngine.Api.csproj": {
+              "projectPath": "D:\\Work\\DevPartners\\Backend_Devs_Assessment\\practical-ddd\\TradingEngine.Api\\TradingEngine.Api.csproj"
             },
-            "D:\\Work\\DevPartners\\DDD in Practice\\TradingEngine.Logic\\TradingEngine.Logic.csproj": {
-              "projectPath": "D:\\Work\\DevPartners\\DDD in Practice\\TradingEngine.Logic\\TradingEngine.Logic.csproj"
+            "D:\\Work\\DevPartners\\Backend_Devs_Assessment\\practical-ddd\\TradingEngine.Logic\\TradingEngine.Logic.csproj": {
+              "projectPath": "D:\\Work\\DevPartners\\Backend_Devs_Assessment\\practical-ddd\\TradingEngine.Logic\\TradingEngine.Logic.csproj"
             }
           }
         }

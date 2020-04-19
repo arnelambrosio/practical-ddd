@@ -6,3 +6,12 @@ D:\Work\DevPartners\DDD in Practice\TradingEngine.Logic\obj\Debug\netcoreapp3.1\
 D:\Work\DevPartners\DDD in Practice\TradingEngine.Logic\obj\Debug\netcoreapp3.1\TradingEngine.Logic.AssemblyInfo.cs
 D:\Work\DevPartners\DDD in Practice\TradingEngine.Logic\obj\Debug\netcoreapp3.1\TradingEngine.Logic.dll
 D:\Work\DevPartners\DDD in Practice\TradingEngine.Logic\obj\Debug\netcoreapp3.1\TradingEngine.Logic.pdb
+D:\Work\DevPartners\Backend_Devs_Assessment\practical-ddd\TradingEngine.Logic\bin\Debug\netcoreapp3.1\TradingEngine.Logic.deps.json
+D:\Work\DevPartners\Backend_Devs_Assessment\practical-ddd\TradingEngine.Logic\bin\Debug\netcoreapp3.1\TradingEngine.Logic.dll
+D:\Work\DevPartners\Backend_Devs_Assessment\practical-ddd\TradingEngine.Logic\bin\Debug\netcoreapp3.1\TradingEngine.Logic.pdb
+D:\Work\DevPartners\Backend_Devs_Assessment\practical-ddd\TradingEngine.Logic\obj\Debug\netcoreapp3.1\TradingEngine.Logic.csprojAssemblyReference.cache
+D:\Work\DevPartners\Backend_Devs_Assessment\practical-ddd\TradingEngine.Logic\obj\Debug\netcoreapp3.1\TradingEngine.Logic.csproj.CoreCompileInputs.cache
+D:\Work\DevPartners\Backend_Devs_Assessment\practical-ddd\TradingEngine.Logic\obj\Debug\netcoreapp3.1\TradingEngine.Logic.AssemblyInfoInputs.cache
+D:\Work\DevPartners\Backend_Devs_Assessment\practical-ddd\TradingEngine.Logic\obj\Debug\netcoreapp3.1\TradingEngine.Logic.AssemblyInfo.cs
+D:\Work\DevPartners\Backend_Devs_Assessment\practical-ddd\TradingEngine.Logic\obj\Debug\netcoreapp3.1\TradingEngine.Logic.dll
+D:\Work\DevPartners\Backend_Devs_Assessment\practical-ddd\TradingEngine.Logic\obj\Debug\netcoreapp3.1\TradingEngine.Logic.pdb
